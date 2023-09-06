@@ -1,0 +1,19 @@
+body
+{
+background-size: cover;
+}
+
+.heading h3{
+display: inline;
+width: 100%;
+}
+.instructions{
+    float: right;
+    border: 1px solid white;
+    background-color: orange;
+}
+.restart{
+    font-size: 20%;
+    font-style: italic;
+    font-weight: bold;
+}
